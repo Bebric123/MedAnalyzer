@@ -1,0 +1,8 @@
+{
+  "short_name": "MedAnalyzer",
+  "name": "Система анализа медицинских данных",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0056B3",
+  "background_color": "#ffffff"
+}
